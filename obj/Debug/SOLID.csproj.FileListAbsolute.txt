@@ -1,0 +1,7 @@
+C:\Users\muhittin.akin\Desktop\Projeler\SOLID\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\muhittin.akin\Desktop\Projeler\SOLID\SOLID\bin\Debug\SOLID.exe
+C:\Users\muhittin.akin\Desktop\Projeler\SOLID\SOLID\bin\Debug\SOLID.pdb
+C:\Users\muhittin.akin\Desktop\Projeler\SOLID\SOLID\obj\Debug\SOLID.csproj.AssemblyReference.cache
+C:\Users\muhittin.akin\Desktop\Projeler\SOLID\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\muhittin.akin\Desktop\Projeler\SOLID\SOLID\obj\Debug\SOLID.exe
+C:\Users\muhittin.akin\Desktop\Projeler\SOLID\SOLID\obj\Debug\SOLID.pdb
